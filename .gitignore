@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-src/components/AdminDashboard.jsx/
+src/components/AdminDashboard.jsx
 
 # Editor directories and files
 .vscode/*
